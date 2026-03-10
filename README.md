@@ -1,4 +1,4 @@
-# ES RELIVE – Sign Language Translator
+#  RELIVE – Sign Language Translator
 
 AI-powered sign language translation system using:
 
