@@ -1,0 +1,6 @@
+```
+tensorflow>=2.10.0
+mediapipe>=0.10.0
+opencv-python>=4.7.0
+numpy>=1.23.0
+```
